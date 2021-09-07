@@ -58,7 +58,7 @@ export default function Home({ exploreData, cardsData }) {
               />
       </main>
       
-      <footer>
+      <footer className="border-b">
     
           <Footer
 
